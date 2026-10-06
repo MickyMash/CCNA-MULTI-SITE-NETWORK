@@ -1,0 +1,15 @@
+1. Basic settings to all devices plus ssh on the routers and l3 switches
+2. Vlans assignment plus all access and trunk ports on l2 and l3 switches
+3. Switchport security to server-side-site department.
+4. Subnetting and ip addressing
+5. Ospf on the routers and l3 switches
+6. Static ip address to server room devices
+7. Dhcp server device configurations
+8. Inter-vlan routing on the l3 switches plus ip dhcp helper addresses.
+9. Wireless network configurations
+10. Site to site IPsec VPN
+11. Default static route
+12. PAT + Access Control List
+13. Verification and testing configurations
+14. Wireless Configurations.(Split-Mac Architecture)
+15. NTP,SYSLOG,SNMP,SITE-TO-SITE VPN configurations.
